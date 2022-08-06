@@ -6,7 +6,7 @@ Aplicação de estudo em Javascript nativa, realização de um cadastro, obtenç
 - Api Rest
 - IndexdDB
 - Data binding
-- POO
+- Programação Orientada a Objetos
 - MVC
 - Padrão de Projeto Proxy
 - Padrão de Projeto Factory
