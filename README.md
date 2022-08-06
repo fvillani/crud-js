@@ -1,5 +1,5 @@
 # crud-js
-Aplicação de estudo em Javascript nativa, realização de um cadastro, obtenção de dados via Api Rest, trabalhando com IndexdDB do Navegador, utilicação de data binding para refresh da aplicação sem reload da página
+Aplicação de estudo em Javascript nativo, realização de um cadastro, obtenção de dados via Api Rest, trabalhando com IndexdDB do Navegador, utilicação de data binding para refresh da aplicação sem reload da página.
 
 ## Tecnologias
 - Javascript
